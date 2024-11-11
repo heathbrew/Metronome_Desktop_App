@@ -160,6 +160,7 @@ To distribute the application as a standalone .exe file, follow these steps usin
 
 4. **Run the Executable**  
    Navigate to the `dist/` folder and double-click `metronome.exe` to launch the application.
+   
 ![image](https://github.com/user-attachments/assets/3f70efa5-40b4-479e-b1b3-9a4b8311f2f2)
 
 ---
