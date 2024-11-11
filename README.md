@@ -2,6 +2,7 @@
 # Cyberpunk Countdown Timer
 
 Welcome to the Cyberpunk Countdown Timer, a sleek and modern desktop application designed to provide a visually appealing countdown experience with optional sound effects.
+<img width="302" alt="Screenshot 2024-11-12 004729" src="https://github.com/user-attachments/assets/cec2006d-a397-4663-9655-81331cb79be0">
 
 ## Features
 
@@ -158,6 +159,7 @@ To distribute the application as a standalone .exe file, follow these steps usin
 
 4. **Run the Executable**  
    Navigate to the `dist/` folder and double-click `metronome.exe` to launch the application.
+![image](https://github.com/user-attachments/assets/3f70efa5-40b4-479e-b1b3-9a4b8311f2f2)
 
 ---
 
